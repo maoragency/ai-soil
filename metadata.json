@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Soil Section Generator",
+  "description": "A professional tool for generating engineering soil borehole cross-sections using Gemini AI for data extraction and validation.",
+  "requestFramePermissions": []
+}
